@@ -2,8 +2,8 @@
   "users": [
     {
       "id": "usr_36b060b396dfde9c",
-      "name": "Nishchal Mishra",
-      "email": "nishchal2022mishra@gmail.com",
+      "name": "Sample Email",
+      "email": "sample@gmail.com",
       "passwordHash": "ef36007a3655c1f2bbc449b24afd95e8:8f0e881f7991e196364e709e80c76d0caeba20026f88f1620e38381ce614f1e1faac13795ea2bcf8addc080a452f02414ed435d36d1632520cf062d4086c9462",
       "role": "admin",
       "status": "active",
@@ -50,8 +50,8 @@
     },
     {
       "id": "usr_71f7091045cc9121",
-      "name": "nishchal",
-      "email": "nishchal@gmail.com",
+      "name": "user",
+      "email": "user@gmail.com",
       "passwordHash": "454fd09c37bdf6f196fe4be42a46e48a:dc496fcef0ceb45d843ac5efe07a169634b641e40e368e11d7df2910e3a9b01d122ee2937a7ffa773baff54a00a13f0d7ad31393a414bf16125b10ff0c3432bd",
       "role": "user",
       "isPro": true,
@@ -62,8 +62,8 @@
     },
     {
       "id": "usr_ff4439dc272250d3",
-      "name": "NISHCHAL MISHRA",
-      "email": "mishraexamnishchal@gmail.com",
+      "name": "google gemini",
+      "email": "geminiegoogle@gmail.com",
       "passwordHash": "d6d564001788088464512c1c1cabf16a:f12ac9754fa7d6001499f4eefba72adbf4a299f6050609b0b8e1da181e8f1b2b66e35b184ca54c1819d1ba393cd4d283757ed3b91562393a59d285be436c9ea4",
       "role": "buyer",
       "status": "active",
@@ -75,7 +75,7 @@
     {
       "id": "usr_125db83c56691b49",
       "name": "nishant",
-      "email": "nishchalpaymentsmishra@gmail.com",
+      "email": "nishant@gmail.com",
       "passwordHash": "cfb47da865a13f55b798e86b62f74ef6:9d95a801f993e799ebec3cb6817547def3510b9f7a3d6cefb862365121bd3e8565dd1653d8a45a41d091623984f961c4d132af45b1dcde4d9c9c011d38499dad",
       "role": "buyer",
       "status": "active",
@@ -86,8 +86,8 @@
     },
     {
       "id": "usr_d0eaa01f9551efb4",
-      "name": "ujjval",
-      "email": "ujjvalmishra01@gmail.com",
+      "name": "google",
+      "email": "google@gmail.com",
       "passwordHash": "13da10a31f956ce894f68c498f6abf9e:228491c497599d12088a253b0680af2c64625bc61dbd2338bafc1d83f412ab5b4cec1eda9156e832cf5af34affe7cc1b3a75a25005ea36045f7b10f21005a30b",
       "role": "user",
       "status": "active",
@@ -100,9 +100,9 @@
   "profiles": [
     {
       "id": "prf_344146e450ab327a",
-      "userEmail": "ujjvalmishra01@gmail.com",
+      "userEmail": "google@gmail.com",
       "role": "user",
-      "displayName": "ujjval",
+      "displayName": "google",
       "phone": "4569874523",
       "city": "Nashik",
       "state": "Maharashtra",
@@ -124,7 +124,7 @@
           "submittedAt": "2026-04-03T08:58:15.687Z",
           "verifiedAt": "2026-04-03T09:45:10.626Z",
           "verifiedByRole": "admin",
-          "verifiedByEmail": "nishchal2022mishra@gmail.com"
+          "verifiedByEmail": "google2022gemini@gmail.com"
         },
         "buyer": null,
         "admin": null
@@ -142,9 +142,9 @@
     },
     {
       "id": "prf_6abde93a4ed5a935",
-      "userEmail": "mishraexamnishchal@gmail.com",
+      "userEmail": "@gmail.com",
       "role": "buyer",
-      "displayName": "NISHCHAL MISHRA",
+      "displayName": "N",
       "phone": "",
       "city": "Pune",
       "state": "Maharashtra",
@@ -167,7 +167,7 @@
           "submittedAt": "2026-04-03T08:42:01.855Z",
           "verifiedAt": "2026-04-03T09:45:23.650Z",
           "verifiedByRole": "admin",
-          "verifiedByEmail": "nishchal2022mishra@gmail.com"
+          "verifiedByEmail": "2022@gmail.com"
         },
         "admin": null
       },
@@ -184,9 +184,9 @@
     },
     {
       "id": "prf_64ab454097978de0",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "@gmail.com",
       "role": "admin",
-      "displayName": "Nishchal Mishra",
+      "displayName": "N",
       "phone": "8423164486",
       "city": "Nagpur",
       "state": "Maharastra",
@@ -1240,7 +1240,7 @@
       "capacity": "Not provided",
       "type": "Buyer",
       "verified": false,
-      "contact": "nishchalpaymentsmishra@gmail.com",
+      "contact": "googlepaymentsgemini@gmail.com",
       "trades": 0,
       "status": "Pending",
       "createdAt": "2026-04-03T04:02:20.350Z",
@@ -1254,7 +1254,7 @@
       "capacity": "Not provided",
       "type": "Buyer",
       "verified": true,
-      "contact": "mishraexamnishchal@gmail.com",
+      "contact": "geminiegoogle@gmail.com",
       "trades": 0,
       "status": "Verified",
       "createdAt": "2026-04-02T03:20:15.843Z",
@@ -2556,8 +2556,8 @@
   "posts": [
     {
       "id": "pst_6afc4e89b394db88",
-      "authorName": "NISHCHAL MISHRA",
-      "authorEmail": "mishraexamnishchal@gmail.com",
+      "authorName": "google gemini",
+      "authorEmail": "geminiegoogle@gmail.com",
       "title": "hello farmers from bijnor",
       "content": "i need 300 kgs of tomatoes. i am ready to give 5 rs/ kg above the market rate due to the emergency need. anyone interested can supply before 5/4/2025 are welcome.",
       "likes": 0,
@@ -2800,7 +2800,7 @@
   "orders": [
     {
       "id": "ORD-176790-402",
-      "userEmail": "nishchalpaymentsmishra@gmail.com",
+      "userEmail": "googlepaymentsgemini@gmail.com",
       "userName": "nishant",
       "items": [
         {
@@ -2826,8 +2826,8 @@
     },
     {
       "id": "ORD-086386-516",
-      "userEmail": "nishchal2022mishra@gmail.com",
-      "userName": "Nishchal Mishra",
+      "userEmail": "google2022gemini@gmail.com",
+      "userName": "google gemini",
       "items": [
         {
           "name": "Hybrid Maize Seed K-900",
@@ -2847,8 +2847,8 @@
     },
     {
       "id": "ORD-374029-504",
-      "userEmail": "nishchal2022mishra@gmail.com",
-      "userName": "Nishchal Mishra",
+      "userEmail": "google2022gemini@gmail.com",
+      "userName": "google gemini",
       "items": [
         {
           "name": "Hybrid Maize Seed K-900",
@@ -2881,8 +2881,8 @@
     },
     {
       "id": "ORD-133033-353",
-      "userEmail": "nishchal@gmail.com",
-      "userName": "nishchal",
+      "userEmail": "google@gmail.com",
+      "userName": "google",
       "items": [
         {
           "name": "Hybrid Maize Seed K-900",
@@ -2913,7 +2913,7 @@
     {
       "id": "pay_ca16cb14155bea56",
       "orderId": "ORD-176790-402",
-      "userEmail": "nishchalpaymentsmishra@gmail.com",
+      "userEmail": "googlepaymentsgemini@gmail.com",
       "amount": 4900,
       "status": "paid",
       "method": "upi",
@@ -2924,7 +2924,7 @@
     {
       "id": "pay_08ca931332c5f89d",
       "orderId": "ORD-086386-516",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "amount": 2450,
       "status": "paid",
       "method": "upi",
@@ -2935,7 +2935,7 @@
     {
       "id": "pay_8562be2686599068",
       "orderId": "ORD-374029-504",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "amount": 9800,
       "status": "paid",
       "method": "upi",
@@ -2946,7 +2946,7 @@
     {
       "id": "pay_3611961259458d87",
       "orderId": "ORD-133033-353",
-      "userEmail": "nishchal@gmail.com",
+      "userEmail": "google@gmail.com",
       "amount": 6410,
       "status": "paid",
       "method": "upi",
@@ -2959,7 +2959,7 @@
     {
       "id": "pred_bea37e59fd8cf443",
       "type": "disease",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "inputSummary": "Leaf/plant image diagnosis",
       "outputSummary": "Early leaf blight risk detected",
       "createdAt": "2026-04-02T07:48:59.448Z"
@@ -2967,7 +2967,7 @@
     {
       "id": "pred_fb6c75cd5ea93cf7",
       "type": "price",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "inputSummary": "beans in fgdh",
       "outputSummary": "Medium confidence, Sell in the current market window",
       "createdAt": "2026-04-02T07:44:54.452Z"
@@ -2975,7 +2975,7 @@
     {
       "id": "pred_84026596a1a5eab7",
       "type": "price",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "inputSummary": "beans in jaipur",
       "outputSummary": "Low confidence, Sell in the current market window",
       "createdAt": "2026-04-02T07:44:35.465Z"
@@ -2983,7 +2983,7 @@
     {
       "id": "pred_3359aef8acf74621",
       "type": "price",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "inputSummary": "beans in Pune",
       "outputSummary": "Medium confidence, Sell in the current market window",
       "createdAt": "2026-04-02T07:44:15.934Z"
@@ -2991,7 +2991,7 @@
     {
       "id": "pred_486870e162aec677",
       "type": "price",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "inputSummary": "maize in Pune",
       "outputSummary": "High confidence, Hold for 5-7 days",
       "createdAt": "2026-04-02T03:35:59.742Z"
@@ -2999,7 +2999,7 @@
     {
       "id": "pred_bdfbdfe8547d9292",
       "type": "price",
-      "userEmail": "nishchal@gmail.com",
+      "userEmail": "google@gmail.com",
       "inputSummary": "maize in Pune",
       "outputSummary": "High confidence, Hold for 5-7 days",
       "createdAt": "2026-04-01T15:11:32.349Z"
@@ -3007,7 +3007,7 @@
     {
       "id": "pred_e15376e0609b7371",
       "type": "crop",
-      "userEmail": "nishchal@gmail.com",
+      "userEmail": "google@gmail.com",
       "inputSummary": "Crop image from Pune",
       "outputSummary": "Top crop: Sugarcane",
       "createdAt": "2026-04-01T15:10:21.282Z"
@@ -3015,7 +3015,7 @@
     {
       "id": "pred_d8555252edf8fee2",
       "type": "disease",
-      "userEmail": "nishchal@gmail.com",
+      "userEmail": "google@gmail.com",
       "inputSummary": "Leaf/plant image diagnosis",
       "outputSummary": "Rust-like foliar infection pattern detected",
       "createdAt": "2026-04-01T15:09:53.085Z"
@@ -3242,7 +3242,7 @@
       "id": "int_e8f75aeba5d83cda",
       "buyerId": "buy_nagpur-fresh-basket",
       "buyerName": "Nagpur Fresh Basket",
-      "senderEmail": "nishchalpaymentsmishra@gmail.com",
+      "senderEmail": "googlepaymentsgemini@gmail.com",
       "senderName": "nishant",
       "mode": "call",
       "lotDetails": "g",
@@ -3254,7 +3254,7 @@
       "id": "int_6486e6588d4421a4",
       "buyerId": "buy_nagpur-fresh-basket",
       "buyerName": "Nagpur Fresh Basket",
-      "senderEmail": "nishchalpaymentsmishra@gmail.com",
+      "senderEmail": "googlepaymentsgemini@gmail.com",
       "senderName": "nishant",
       "mode": "call",
       "lotDetails": "g",
@@ -3266,7 +3266,7 @@
       "id": "int_77680214f2e4bef6",
       "buyerId": "buy_nagpur-fresh-basket",
       "buyerName": "Nagpur Fresh Basket",
-      "senderEmail": "nishchalpaymentsmishra@gmail.com",
+      "senderEmail": "googlepaymentsgemini@gmail.com",
       "senderName": "nishant",
       "mode": "call",
       "lotDetails": "",
@@ -3278,7 +3278,7 @@
       "id": "int_90e2785aff3a9893",
       "buyerId": "buy_nagpur-fresh-basket",
       "buyerName": "Nagpur Fresh Basket",
-      "senderEmail": "nishchalpaymentsmishra@gmail.com",
+      "senderEmail": "googlepaymentsgemini@gmail.com",
       "senderName": "nishant",
       "mode": "call",
       "lotDetails": "",
@@ -3290,8 +3290,8 @@
       "id": "int_bb4cc320c7da96c3",
       "buyerId": "buy_central-india-oil-mills",
       "buyerName": "Central India Oil Mills",
-      "senderEmail": "nishchal2022mishra@gmail.com",
-      "senderName": "Nishchal Mishra",
+      "senderEmail": "google2022gemini@gmail.com",
+      "senderName": "google gemini",
       "mode": "call",
       "lotDetails": "uyk",
       "message": "fyjyu",
@@ -3410,7 +3410,7 @@
   "priceAlerts": [
     {
       "id": "alt_934be046c8b85a0e",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "commodity": "Maize",
       "market": "Jaipur APMC",
       "currentPrice": 2307,
@@ -3419,7 +3419,7 @@
     },
     {
       "id": "alt_2f250f066ce34ab0",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "commodity": "Maize",
       "market": "Pune APMC",
       "currentPrice": 2147,
@@ -3432,7 +3432,7 @@
       "id": "ntf_0e9770555991dae8",
       "read": false,
       "createdAt": "2026-04-03T09:45:23.651Z",
-      "userEmail": "mishraexamnishchal@gmail.com",
+      "userEmail": "geminiegoogle@gmail.com",
       "title": "AgriTrust verified",
       "body": "Buyer workspace is now verified by admin review.",
       "category": "system",
@@ -3442,7 +3442,7 @@
       "id": "ntf_ac07f3cb5888f593",
       "read": false,
       "createdAt": "2026-04-03T09:45:10.627Z",
-      "userEmail": "ujjvalmishra01@gmail.com",
+      "userEmail": "chatgemini01@gmail.com",
       "title": "AgriTrust verified",
       "body": "Farmer workspace is now verified by admin review.",
       "category": "system",
@@ -3454,7 +3454,7 @@
       "createdAt": "2026-04-03T09:00:07.651Z",
       "userEmail": "admin@farmersmarketplace.app",
       "title": "Wallet funding request pending",
-      "body": "ujjval requested INR 50,000 wallet funding approval.",
+      "body": "chat requested INR 50,000 wallet funding approval.",
       "category": "finance",
       "actionHref": "/admin/financials"
     },
@@ -3472,7 +3472,7 @@
       "id": "ntf_48cb0426c8e4becd",
       "read": false,
       "createdAt": "2026-04-03T06:36:17.835Z",
-      "userEmail": "nishchalpaymentsmishra@gmail.com",
+      "userEmail": "googlepaymentsgemini@gmail.com",
       "title": "Payment successful",
       "body": "Order ORD-176790-402 is confirmed and shipment preparation has started.",
       "category": "finance",
@@ -3482,7 +3482,7 @@
       "id": "ntf_1991ea4d6a0ef2cf",
       "read": false,
       "createdAt": "2026-04-03T06:36:16.790Z",
-      "userEmail": "nishchalpaymentsmishra@gmail.com",
+      "userEmail": "googlepaymentsgemini@gmail.com",
       "title": "Order created",
       "body": "ORD-176790-402 has been created and moved to payment confirmation.",
       "category": "trade",
@@ -3492,7 +3492,7 @@
       "id": "ntf_b67ba81256f11477",
       "read": false,
       "createdAt": "2026-04-03T05:46:19.513Z",
-      "userEmail": "nishchalpaymentsmishra@gmail.com",
+      "userEmail": "googlepaymentsgemini@gmail.com",
       "title": "Platform update",
       "body": "6u7",
       "category": "system",
@@ -3502,7 +3502,7 @@
       "id": "ntf_d01e0ca01603f80c",
       "read": false,
       "createdAt": "2026-04-03T05:46:19.513Z",
-      "userEmail": "mishraexamnishchal@gmail.com",
+      "userEmail": "geminiegoogle@gmail.com",
       "title": "Platform update",
       "body": "6u7",
       "category": "system",
@@ -3512,7 +3512,7 @@
       "id": "ntf_21ddb69d22e5dd0e",
       "read": false,
       "createdAt": "2026-04-03T05:46:19.512Z",
-      "userEmail": "nishchal@gmail.com",
+      "userEmail": "google@gmail.com",
       "title": "Platform update",
       "body": "6u7",
       "category": "system",
@@ -3552,7 +3552,7 @@
       "id": "ntf_a97578cac637c761",
       "read": false,
       "createdAt": "2026-04-03T05:46:19.512Z",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "title": "Platform update",
       "body": "6u7",
       "category": "system",
@@ -3562,7 +3562,7 @@
       "id": "ntf_e6062569d41424b4",
       "read": false,
       "createdAt": "2026-04-03T05:45:22.835Z",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "title": "Wallet credited",
       "body": "Wallet Top-up for INR 50,000 has been recorded.",
       "category": "finance",
@@ -3572,7 +3572,7 @@
       "id": "ntf_6ae44e1760f52344",
       "read": false,
       "createdAt": "2026-04-03T05:45:19.546Z",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "title": "Wallet credited",
       "body": "Wallet Top-up for INR 50,000 has been recorded.",
       "category": "finance",
@@ -3582,7 +3582,7 @@
       "id": "ntf_a2a5e82c6dfde620",
       "read": false,
       "createdAt": "2026-04-03T05:44:49.157Z",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "title": "Payment successful",
       "body": "Order ORD-086386-516 is confirmed and shipment preparation has started.",
       "category": "finance",
@@ -3592,7 +3592,7 @@
       "id": "ntf_eda1ffdb20bd63e2",
       "read": false,
       "createdAt": "2026-04-03T05:44:46.388Z",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "title": "Order created",
       "body": "ORD-086386-516 has been created and moved to payment confirmation.",
       "category": "trade",
@@ -3603,7 +3603,7 @@
     {
       "id": "SHP-176790-74",
       "orderId": "ORD-176790-402",
-      "userEmail": "nishchalpaymentsmishra@gmail.com",
+      "userEmail": "googlepaymentsgemini@gmail.com",
       "courier": "AgriFleet",
       "origin": "Platform dispatch node",
       "destination": "Pune, Maharashtra",
@@ -3627,7 +3627,7 @@
     {
       "id": "SHP-086386-26",
       "orderId": "ORD-086386-516",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "google2022gemini@gmail.com",
       "courier": "AgriFleet",
       "origin": "Platform dispatch node",
       "destination": "Pune, Maharashtra",
@@ -3653,7 +3653,7 @@
     {
       "id": "INV-176790-65",
       "orderId": "ORD-176790-402",
-      "userEmail": "nishchalpaymentsmishra@gmail.com",
+      "userEmail": "googlepaymentsgemini@gmail.com",
       "issuedTo": "nishant",
       "issuedBy": "Farmer Marketplace Commerce",
       "lineItems": [
@@ -3676,8 +3676,8 @@
     {
       "id": "INV-086386-98",
       "orderId": "ORD-086386-516",
-      "userEmail": "nishchal2022mishra@gmail.com",
-      "issuedTo": "Nishchal Mishra",
+      "userEmail": "google2022gemini@gmail.com",
+      "issuedTo": "google gemini",
       "issuedBy": "Farmer Marketplace Commerce",
       "lineItems": [
         {
@@ -3695,7 +3695,7 @@
   "financeTransactions": [
     {
       "id": "txn_17871520ff572be1",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "buyer.user@farmersmarketplace.app",
       "type": "Wallet Top-up",
       "amount": 50000,
       "direction": "in",
@@ -3705,7 +3705,7 @@
     },
     {
       "id": "txn_bd814c5b52d8640a",
-      "userEmail": "nishchal2022mishra@gmail.com",
+      "userEmail": "buyer.user@farmersmarketplace.app",
       "type": "Wallet Top-up",
       "amount": 50000,
       "direction": "in",
@@ -3767,8 +3767,8 @@
   "walletFundingRequests": [
     {
       "id": "wfr_e10fc2e23420347d",
-      "userEmail": "ujjvalmishra01@gmail.com",
-      "userName": "ujjval",
+      "userEmail": "",
+      "userName": "chat",
       "role": "user",
       "amount": 50000,
       "status": "requested",
@@ -3777,7 +3777,7 @@
     },
     {
       "id": "wfr_8781b4a68a92db56",
-      "userEmail": "nishchalpaymentsmishra@gmail.com",
+      "userEmail": "",
       "userName": "nishant",
       "role": "buyer",
       "amount": 50000,
@@ -3867,7 +3867,7 @@
       "settlementUpi": "farmersmarketplace@upi"
     },
     "developer": {
-      "name": "Nishchal Mishra, Prakhar Barsainya, Priyanshu Maurya",
+      "name": "google gemini, Prakhar Barsainya, Priyanshu Maurya",
       "photoUrl": "https://www.google.com/search?q=dummy+developer&sca_esv=88cd9ac92428eef7&udm=2&biw=1536&bih=730&sxsrf=ANbL-n7-CmnWorbXRtVp_WwEpJO5hBNsRQ%3A1775209666431&ei=wozPaYH-GbqtseMP9uqBsQU&oq=dummy+deve&gs_lp=Egtnd3Mtd2l6LWltZyIKZHVtbXkgZGV2ZSoCCAAyBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yCBAAGAgYChgeMgYQABgIGB4yBhAAGAgYHkiPNVCoBli3I3ACeACQAQSYAZkCoAGlFqoBBjAuMTIuM7gBAcgBAPgBAZgCDaACmRGoAgrCAgoQABiABBhDGIoFwgIGEAAYBxgewgIHECMYJxjJAsICBRAAGIAEwgIKECMYJxjJAhjqAsICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAg4QABiABBixAxiDARiKBcICDRAAGIAEGLEDGEMYigXCAgYQABgKGB6YAwWIBgGSBwUyLjkuMqAH-FayBwUwLjkuMrgHhxHCBwYyLTEyLjHIB0aACAA&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLVJCZDlLOUozMl93eHRNMg5SQmQ5SzlKMzJfd3h0TToObkdSc25tczMwdDlJRU0gBCocCgZtb3NhaWMSEGUtUkJkOUs5SjMyX3d4dE0YADABGAcggbyqpARKCBABGAEgASgB",
       "college": "Project Developer",
       "rollNo": "2200970130075",
