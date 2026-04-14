@@ -1,0 +1,31 @@
+{
+  "app\\(app)\\agronomist\\page.tsx -> @/components/pest-identifier": {
+    "id": 38896,
+    "files": [
+      "static/chunks/4501-e45b29383dca3ffe.js",
+      "static/chunks/5500-207e412a1baf4c67.js",
+      "static/chunks/1433.fe0fb327242e9940.js",
+      "static/chunks/8896.4578db301941db0f.js"
+    ]
+  },
+  "app\\(app)\\disease-detection\\page.tsx -> @/components/pest-identifier": {
+    "id": 38896,
+    "files": [
+      "static/chunks/4501-e45b29383dca3ffe.js",
+      "static/chunks/5500-207e412a1baf4c67.js",
+      "static/chunks/1433.fe0fb327242e9940.js",
+      "static/chunks/7794.7294800262c2c289.js"
+    ]
+  },
+  "app\\(app)\\prices\\prices-client.tsx -> @/components/price-predictor": {
+    "id": 55658,
+    "files": [
+      "static/chunks/225-8e648f3af99fcbd8.js",
+      "static/chunks/2033-324594b1e381cbdb.js",
+      "static/chunks/8444-ee8d7c359eb3ae85.js",
+      "static/chunks/1433.fe0fb327242e9940.js",
+      "static/chunks/2566-7fad98684689c7df.js",
+      "static/chunks/5658.ee3ababa6a500b27.js"
+    ]
+  }
+}
