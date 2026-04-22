@@ -1,4 +1,4 @@
-# **App Name**: KrishiMadad
+# **App Name**: Farmer's Marketplace
 
 ## Core Features:
 
